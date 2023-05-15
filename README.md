@@ -1,11 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-uR1f4-1)
-Please go under edit and edit this file as needed for your project
+![Screenshot (106)](https://github.com/VathilaRajapakse/Foodies/assets/87406802/0e837eb9-abea-437b-b4cd-939f1b275ea5)
+![Screenshot (107)](https://github.com/VathilaRajapakse/Foodies/assets/87406802/5a9cda0c-3758-4df6-bcf0-97f1914a2da8)
+![Screenshot (108)](https://github.com/VathilaRajapakse/Foodies/assets/87406802/404de3a5-c1a6-4341-91b2-6b6e7dab4cb8)
 
-# Team Name- 
-# Project Group - 022
-### Group Leader - IT21056970 - Wickramasinghe W.A.I.A (it21056970)
-### Member 2 - IT21066016 - Rajapakse V.O.V (it21066016)
-### Member 3 - IT21059254 - Dilshan P.G.A (it21059254)
-### Member 4 - IT21060908 - Karunarathne K.M.P.M (it21060908)
 
-#### Brief Description of your Solution - 
+
+Using spring-boot, react, and REST API, a social networking web app for food reviews. 
